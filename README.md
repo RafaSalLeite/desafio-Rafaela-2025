@@ -1,6 +1,6 @@
 # Desafio Abrigo de Animais
 
-🐾 Espero que gostem! As dependências foram instaladas seguindo exatamente o que foi ensinado no escopo do projeto de referência.
+As dependências foram instaladas seguindo exatamente o que foi ensinado no escopo do projeto de referência.
 
 💻 Para rodar o projeto, abra o terminal na pasta do projeto, instale as dependências com `npm install` e execute os testes com `npm test`.
 
@@ -12,4 +12,4 @@
 🐱 Se ambos podem adotar, o animal vai para o abrigo.  
 🐢 Erros de animal ou brinquedo inválido são tratados automaticamente.
 
-Espero que gostem!
+🐾 Espero que gostem! 
